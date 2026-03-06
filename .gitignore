@@ -1,0 +1,13 @@
+.venv/
+venv/
+env/
+
+.idea/
+
+.ipynb_checkpoints/
+
+data/
+*.csv
+
+config.py
+.env
