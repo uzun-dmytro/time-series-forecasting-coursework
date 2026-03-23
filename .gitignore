@@ -11,3 +11,5 @@ data/
 
 config.py
 .env
+project_context.md
+.agents/rules/jupyternotebook.md
